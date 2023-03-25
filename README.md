@@ -2,6 +2,10 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
+## Live Demo
+
+[DEMO](https://linerico.github.io/fe-mentor-qr-code-component/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
